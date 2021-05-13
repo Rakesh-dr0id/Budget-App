@@ -1,6 +1,23 @@
 {
+  "name": "Budgety",
+  "version": "1.0.0",
+  "description": "An Budget Calculating App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakesh-dr0id/Budget-App.git"
+  },
+  "keywords": [],
+  "author": "rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakesh-dr0id/Budget-App/issues"
+  },
+  "homepage": "https://github.com/Rakesh-dr0id/Budget-App#readme",
   "devDependencies": {
-    "cssnano": "^5.0.2",
-    "postcss": "^8.2.15"
+    "parcel-bundler": "^1.12.5"
   }
 }
